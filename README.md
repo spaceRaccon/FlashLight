@@ -1,3 +1,3 @@
 # FlashLight
 
-I love :pizza: and :flashlight:.
+Its a :flashlight:.
